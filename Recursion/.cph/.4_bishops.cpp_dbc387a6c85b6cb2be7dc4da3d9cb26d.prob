@@ -1,0 +1,1 @@
+{"name":"Local: 4_bishops","url":"/home/ankit/CP_course/Recursion/4_bishops.cpp","tests":[{"id":1727438944605,"input":"2\n8 6\n4 4","output":"5599888\n260"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/Recursion/4_bishops.cpp","group":"local","local":true}

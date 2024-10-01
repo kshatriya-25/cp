@@ -1,0 +1,1 @@
+{"name":"Local: 1_colored_marbles","url":"/home/ankit/CP_course/Maths/1_colored_marbles.cpp","tests":[{"id":1727276044482,"input":"3\n\n3 1 1 1\n\n2 0 2 0\n\n5 4 0 1","output":"6\n1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/Maths/1_colored_marbles.cpp","group":"local","local":true}

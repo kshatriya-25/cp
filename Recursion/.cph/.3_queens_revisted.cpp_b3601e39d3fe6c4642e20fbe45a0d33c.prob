@@ -1,0 +1,1 @@
+{"name":"Local: 3_queens_revisted","url":"/home/ankit/CP_course/Recursion/3_queens_revisted.cpp","tests":[{"id":1727435408911,"input":"3","output":"0"},{"id":1727435567043,"input":"10","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/Recursion/3_queens_revisted.cpp","group":"local","local":true}

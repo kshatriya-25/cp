@@ -1,0 +1,1 @@
+{"name":"Local: 9_substring","url":"/home/ankit/CP_course/TwoPointers/9_substring.cpp","tests":[{"id":1727022380683,"input":"5\n2\nac\n3\naac\n5\nabode\n5\naaaaa\n10\njdnbfjdhzw","output":"4\n8\n35\n15\n207"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/TwoPointers/9_substring.cpp","group":"local","local":true}

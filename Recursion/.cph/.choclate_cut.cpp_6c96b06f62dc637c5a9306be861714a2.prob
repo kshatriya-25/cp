@@ -1,0 +1,1 @@
+{"name":"Local: choclate_cut","url":"/home/ankit/CP_course/Recursion/choclate_cut.cpp","tests":[{"id":1727361660409,"input":"1\n4 4 1\n","output":"0"},{"id":1727363017353,"input":"1\n4 4 2\n","output":"18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/Recursion/choclate_cut.cpp","group":"local","local":true}

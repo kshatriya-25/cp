@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"/home/ankit/CP_course/Sorting/practice.cpp","tests":[{"id":1726224397076,"input":"2\n2\n2 3\n-1 4\n3\n2 4 -2\n5 0 -7","output":"5\n-38"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/Sorting/practice.cpp","group":"local","local":true}

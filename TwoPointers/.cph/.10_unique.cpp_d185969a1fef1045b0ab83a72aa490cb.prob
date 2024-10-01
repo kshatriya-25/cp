@@ -1,0 +1,1 @@
+{"name":"Local: 10_unique","url":"/home/ankit/CP_course/TwoPointers/10_unique.cpp","tests":[{"id":1727025286305,"input":"\n5\n2\nac\n3\naac\n5\nabode\n5\naaaaa\n10\njdnbfjdhzw","output":"4\n6\n35\n5\n194"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/TwoPointers/10_unique.cpp","group":"local","local":true}

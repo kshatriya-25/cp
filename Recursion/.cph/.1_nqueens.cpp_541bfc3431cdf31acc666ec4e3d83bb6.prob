@@ -1,0 +1,1 @@
+{"name":"Local: 1_nqueens","url":"/home/ankit/CP_course/Recursion/1_nqueens.cpp","tests":[{"id":1727347313611,"input":"\n........\n........\n..*.....\n........\n........\n.....**.\n...*....\n........","output":"65"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/Recursion/1_nqueens.cpp","group":"local","local":true}
