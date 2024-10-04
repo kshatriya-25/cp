@@ -1,0 +1,1 @@
+{"name":"Local: 4_cookie","url":"/home/ankit/CP_course/Greedy/4_cookie.cpp","tests":[{"id":1727801247700,"input":"1\n3\n5 4 4","output":"1"},{"id":1727801753446,"input":"1\n\n3\n\n2 1 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ankit/CP_course/Greedy/4_cookie.cpp","group":"local","local":true}
